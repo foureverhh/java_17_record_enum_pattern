@@ -1,0 +1,2 @@
+insert into id s,parent id s, course name s 
+insert into id s,parent id s, course name s 
