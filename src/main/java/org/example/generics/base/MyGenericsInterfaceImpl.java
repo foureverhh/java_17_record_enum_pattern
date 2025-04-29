@@ -1,4 +1,4 @@
-package org.example.generics;
+package org.example.generics.base;
 
 public class MyGenericsInterfaceImpl<T> implements MyGenericsInterface<T> {
 

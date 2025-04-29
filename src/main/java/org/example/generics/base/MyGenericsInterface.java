@@ -1,4 +1,4 @@
-package org.example.generics;
+package org.example.generics.base;
 
 public interface MyGenericsInterface<T> {
     T show(T t);

@@ -1,9 +1,9 @@
 package org.example;
 
-import org.example.generics.MyGenericsInterface;
-import org.example.generics.MyGenericsInterfaceImpl;
-import org.example.generics.MyGroupWithGenerics;
-import org.example.generics.MyGroupWithGenericsMethod;
+import org.example.generics.base.MyGenericsInterface;
+import org.example.generics.base.MyGenericsInterfaceImpl;
+import org.example.generics.base.MyGroupWithGenerics;
+import org.example.generics.base.MyGroupWithGenericsMethod;
 
 import java.util.ArrayList;
 import java.util.Iterator;
