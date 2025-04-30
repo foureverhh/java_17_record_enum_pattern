@@ -12,4 +12,9 @@ public class Cat extends Animal implements Sleep {
     public void sleep() {
         System.out.println("Cat sleeps");
     }
+
+    @Override
+    public String toString() {
+        return "An cat instance";
+    }
 }
