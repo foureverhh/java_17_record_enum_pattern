@@ -5,3 +5,4 @@
 
 - https://rameshfadatare.medium.com/stop-writing-utility-classes-the-old-way-use-functional-interfaces-instead-4b1e0d5fefc1
 -【【尚硅谷】数据结构与算法（Java数据结构与算法）-哔哩哔哩】 https://b23.tv/GHK5EdR
+- https://youtu.be/glvYULuaf-k?si=tnFGY_O0ffz7Gpji sealed class and interface
